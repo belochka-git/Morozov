@@ -1,0 +1,36 @@
+Fri Oct 13 15:47:47 2023
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Oct 13 15:47:47 2023
+No ARsim registration found!
+
+Fri Oct 13 15:47:47 2023
+InstanceName: 01d9fdd377e47d10
+
+Fri Oct 13 15:47:47 2023
+WorkingDirectory: C:\Users\admin\Documents\KRBO-02-20\baryshev\laba1\Temp\Simulation\laba1\4PP065_0571_P74\
+
+Fri Oct 13 15:47:47 2023
+COMMAND_COLDSTART
+
+Fri Oct 13 15:47:49 2023
+Version: D4.52
+
+Fri Oct 13 16:00:41 2023
+COMMAND_TERMINATE
+
+Fri Oct 13 16:00:41 2023
+COMMAND_COLDSTART
+
+Fri Oct 13 16:00:43 2023
+Version: D4.52
+
+Fri Oct 13 16:00:43 2023
+COMMAND_TERMINATE
+
+Fri Oct 13 16:00:43 2023
+COMMAND_COLDSTART
+
+Fri Oct 13 16:00:46 2023
+Version: D4.52
+
